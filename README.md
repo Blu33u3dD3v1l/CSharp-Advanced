@@ -1,2 +1,2 @@
 # CSharp-Advanced homework and Exams.
-I added links for problem descriptions in every separate folder.
+There are links for problem descriptions in every separate folder.
